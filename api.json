@@ -1,3 +1,36 @@
 {
-    "a": 123
+    "users": [
+        {
+            "id": 1,
+            "username": "delt4d",
+            "surname": "le",
+            "email": "leandrocruz717@gmail.com",
+            "score": 100,
+            "powers": []
+        },
+        {
+            "id": 2,
+            "username": "maren.el",
+            "surname": "Number 6",
+            "email": "marenelizabeth@pitmail.com",
+            "score": 400,
+            "powers": [
+                "Lumen (Light)",
+                "Telekinesis",
+                "Fire generation, manipulation and resistence"
+            ]
+        },
+        {
+            "id": 3,
+            "username": "john4",
+            "surname": "Number 4",
+            "email": "jhon4smith@pitmail.com",
+            "score": 200,
+            "powers": [
+                "Novis (Invisibility)",
+                "Telekinesis",
+                "Elemental Manipulation"
+            ]
+        }
+    ]
 }
