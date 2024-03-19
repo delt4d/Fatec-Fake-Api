@@ -4,13 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node app.js",
-    "dev": "ts-node-dev app.js"
+    "start": "json-server api.json"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ts-node-dev": "^2.0.0"
+    "json-server": "^1.0.0-alpha.23"
   }
 }
